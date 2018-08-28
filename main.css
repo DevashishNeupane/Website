@@ -113,6 +113,17 @@ body {
 
 }
 
+#School {
+
+    height: 150px;
+    width: 20%;
+    border: 5px solid red;
+    position: relative;
+    bottom: 10px;
+    left: 425px;
+
+}
+
 #Personal {
 
     margin-left: 500px;
